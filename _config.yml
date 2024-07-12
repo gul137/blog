@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com/gul137/gul137.github.io.git
-  branch: gh-pages
+  repo: https://github.com/gul137/gul137.github.io.git
+  branch: main
