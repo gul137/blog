@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/gul137/gul137.github.io.git
+  repo: https://github.com/gul137/blog.git
   branch: master
